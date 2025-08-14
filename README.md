@@ -1,5 +1,7 @@
 ## Meus Projetos do Curso CS50x - Harvard
 
+---
+
 <img 
         align="left" 
         alt="GitHub Stats" 
