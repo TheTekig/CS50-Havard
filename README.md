@@ -3,7 +3,7 @@
 ---
 
 <img 
-        align="middle" 
+        align="left" 
         alt="GitHub Stats" 
         height="200" 
         src="https://miro.medium.com/1*RL6J98N2ju5kPz98LJBoNg.jpeg"
