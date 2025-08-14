@@ -1,4 +1,4 @@
-**Meus Projetos do Curso CS50x - Harvard**
+## Meus Projetos do Curso CS50x - Harvard
 
 <img 
         align="left" 
@@ -9,9 +9,11 @@
 
 ***Bem-vindo ao meu repositório de projetos para o curso CS50's Introduction to Computer Science da Universidade de Harvard. Este espaço serve como um diário da minha jornada de aprendizado, contendo todas as minhas soluções para os problem sets (listas de problemas) propostos a cada semana.***
 
+
+
 ---
 
-*Sobre o CS50*
+# *Sobre o CS50*
 
 *O CS50x é um curso introdutório à ciência da computação e à arte da programação. Ele ensina os alunos a pensar de forma algorítmica e a resolver problemas com eficiência. Os tópicos incluem abstração, algoritmos, estruturas de dados, encapsulamento, gerenciamento de recursos, segurança, engenharia de software e desenvolvimento web.*
 
@@ -19,7 +21,7 @@
 
 ---
 
-#📂 Estrutura do Repositório
+# 📂 Estrutura do Repositório
 
 Este repositório está organizado em pastas, onde cada pasta corresponde a uma semana de conteúdo e seus respectivos desafios. A estrutura é a seguinte:
 
@@ -69,7 +71,7 @@ Este repositório está organizado em pastas, onde cada pasta corresponde a uma 
 
   ---
 
-#🛠️ Tecnologias Abordadas
+# 🛠️ Tecnologias Abordadas
 
     Scratch
     
@@ -85,13 +87,13 @@ Este repositório está organizado em pastas, onde cada pasta corresponde a uma 
 
 ---
 
-*⚠️ Política de Honestidade Acadêmica*
+# *⚠️ Política de Honestidade Acadêmica*
 
 ***Os projetos neste repositório representam meu próprio trabalho e esforço, seguindo a política de honestidade acadêmica do CS50. O objetivo é servir como um portfólio pessoal e um registro do meu aprendizado. Não é permitido copiar o código para submeter nos trabalhos do curso. O intuito do CS50 é que cada aluno desenvolva suas próprias soluções.***
 
 ---
 
-*👤 Contato*
+# *👤 Contato*
 Feito com ❤️ por ***TheTekig***.
 
 LinkedIn: www.linkedin.com/in/diogo-teodoro-dias-lamas-8099b6368
