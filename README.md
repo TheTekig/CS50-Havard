@@ -1,16 +1,23 @@
-#Meus Projetos do Curso CS50x - Harvard
-<img
-  src= "https://miro.medium.com/1*RL6J98N2ju5kPz98LJBoNg.jpeg"
+**Meus Projetos do Curso CS50x - Harvard**
 
-/>
+<img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://miro.medium.com/1*RL6J98N2ju5kPz98LJBoNg.jpeg"
+  />
 
-Bem-vindo ao meu repositório de projetos para o curso CS50's Introduction to Computer Science da Universidade de Harvard. Este espaço serve como um diário da minha jornada de aprendizado, contendo todas as minhas soluções para os problem sets (listas de problemas) propostos a cada semana.
+***Bem-vindo ao meu repositório de projetos para o curso CS50's Introduction to Computer Science da Universidade de Harvard. Este espaço serve como um diário da minha jornada de aprendizado, contendo todas as minhas soluções para os problem sets (listas de problemas) propostos a cada semana.***
 
-#Sobre o CS50
+---
 
-*O CS50x é um curso introdutório à ciência da computação e à arte da programação. Ele ensina os alunos a pensar de forma algorítmica e a resolver problemas com eficiência. Os tópicos incluem abstração, algoritmos, estruturas de dados, encapsulamento, gerenciamento de recursos, segurança, engenharia de software e desenvolvimento web.
+*Sobre o CS50*
 
-Para mais informações, visite o site oficial do curso.*
+*O CS50x é um curso introdutório à ciência da computação e à arte da programação. Ele ensina os alunos a pensar de forma algorítmica e a resolver problemas com eficiência. Os tópicos incluem abstração, algoritmos, estruturas de dados, encapsulamento, gerenciamento de recursos, segurança, engenharia de software e desenvolvimento web.*
+
+*Para mais informações, visite o site oficial do curso.*
+
+---
 
 #📂 Estrutura do Repositório
 
@@ -60,6 +67,8 @@ Este repositório está organizado em pastas, onde cada pasta corresponde a uma 
     
     Meu projeto final do curso, onde aplico todos os conhecimentos adquiridos para criar uma aplicação de minha escolha.
 
+  ---
+
 #🛠️ Tecnologias Abordadas
 
     Scratch
@@ -74,12 +83,16 @@ Este repositório está organizado em pastas, onde cada pasta corresponde a uma 
     
     Flask
 
-#⚠️ Política de Honestidade Acadêmica 
+---
+
+*⚠️ Política de Honestidade Acadêmica*
 
 ***Os projetos neste repositório representam meu próprio trabalho e esforço, seguindo a política de honestidade acadêmica do CS50. O objetivo é servir como um portfólio pessoal e um registro do meu aprendizado. Não é permitido copiar o código para submeter nos trabalhos do curso. O intuito do CS50 é que cada aluno desenvolva suas próprias soluções.***
 
-👤 Contato
-Feito com ❤️ por TheTekig.
+---
+
+*👤 Contato*
+Feito com ❤️ por ***TheTekig***.
 
 LinkedIn: www.linkedin.com/in/diogo-teodoro-dias-lamas-8099b6368
 
