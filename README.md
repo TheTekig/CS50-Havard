@@ -1,7 +1,5 @@
 # Meus Projetos do Curso CS50x - Harvard
 
----
-
 <img 
         align="left" 
         alt="GitHub Stats" 
@@ -11,8 +9,7 @@
 
 ***Bem-vindo ao meu repositório de projetos para o curso CS50's Introduction to Computer Science da Universidade de Harvard. Este espaço serve como um diário da minha jornada de aprendizado, contendo todas as minhas soluções para os problem sets (listas de problemas) propostos a cada semana.***
 
-
-
+---
 
 ## Sobre o CS50
 
